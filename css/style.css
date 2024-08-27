@@ -8,8 +8,6 @@
 .bikerz-zone-light-red{
     background-color: rgba(255, 0, 0, 0.19);
 }
-
-
 .bike-width {
     width: 287px;
     margin-left: -12px;
@@ -29,4 +27,7 @@
 }
 .latest-margin {
     margin-top: 100px;
+}
+.hero-width {
+    width: 416px;
 }
