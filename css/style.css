@@ -31,3 +31,31 @@
 .hero-width {
     width: 416px;
 }
+.frequently-width {
+    width: 445px;
+}
+.border-width {
+    width: 490px;
+    padding-left: 15px;
+    border: 1px solid #D5E5FB;
+}
+.list-none {
+    display: inline-block;
+    list-style: none;
+}
+.footer-img {
+    width: 150px;
+    margin-top: 0px;
+}
+.text-decoration {
+    display: flex !important;
+    gap: 10px;
+    margin-left: -32px;
+}
+.text-decoration li a {
+    text-decoration: none;
+    color: white;
+}
+.text-decoration li {
+    list-style: none;
+}
